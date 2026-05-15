@@ -4,6 +4,6 @@
   "build": 35,
   "obrigatorio": false,
   "tipo": "csupd",
-  "changelog": "Atualização online automática ao iniciar o sistema, melhorias visuais e ajustes no menu Ajuda.",
-  "url": ""
+  "changelog": "Atualização online automática ao iniciar o sistema, melhorias visuais na tela de login, menu Ajuda com opções de Licença e Update, ajustes no cabeçalho principal e correções no fluxo de atualização offline e online.",
+  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/v1.0.4/CondoSystem_Encomendas_Update_1.0.4_Build_35.csupd"
 }
