@@ -1,0 +1,9 @@
+{
+  "sistema": "ENCOMENDAS",
+  "versao": "1.0.4",
+  "build": 35,
+  "obrigatorio": false,
+  "tipo": "csupd",
+  "changelog": "Atualização online automática ao iniciar o sistema, melhorias visuais e ajustes no menu Ajuda.",
+  "url": ""
+}
