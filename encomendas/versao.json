@@ -1,7 +1,7 @@
 {
   "sistema": "ENCOMENDAS",
-  "versao": "1.0.1",
-  "build": 0,
+  "versao": "1.0.2",
+  "build": 32,
   "obrigatorio": false,
   "tipo": "csupd",
   "changelog": "Primeiro update online válido do CondoSystem Encomendas.",
