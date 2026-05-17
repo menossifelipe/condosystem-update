@@ -1,6 +1,6 @@
 {
   "sistema": "ENCOMENDAS",
-  "versao": "1.0.4",
+  "versao": "1.0.2",
   "build": 32,
   "obrigatorio": false,
   "tipo": "csupd",
