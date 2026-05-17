@@ -1,7 +1,7 @@
 {
   "sistema": "ENCOMENDAS",
-  "versao": "1.0.5",
-  "build": 36,
+  "versao": "1.0.2",
+  "build": 32,
   "obrigatorio": false,
   "tipo": "csupd",
   "changelog": "Melhorias visuais na tela de login, Menu Ajuda com opções de Licença e Update, Ajustes no cabeçalho principal e correções no fluxo de atualização offline e online.",
