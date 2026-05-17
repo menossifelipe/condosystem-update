@@ -4,6 +4,6 @@
   "build": 0,
   "obrigatorio": false,
   "tipo": "csupd",
-  "changelog": "Melhorias visuais na tela de login, Menu Ajuda com opções de Licença e Update, Ajustes no cabeçalho principal e correções no fluxo de atualização offline e online.",
+  "changelog": "Primeiro update online válido do CondoSystem Encomendas.",
   "url": "https://github.com/menossifelipe/condosystem-update/releases/download/v1.0.2/CondoSystem_Encomendas_Update_1.0.2_Build_32.csupd"
 }
