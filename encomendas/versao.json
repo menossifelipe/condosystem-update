@@ -1,9 +1,9 @@
 {
   "sistema": "ENCOMENDAS",
-  "versao": "1.0.2",
+  "versao": "1.0.3",
   "build": 32,
   "obrigatorio": false,
   "tipo": "csupd",
-  "changelog": "Primeiro update online válido do CondoSystem Encomendas.",
-  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/v1.0.2/CondoSystem_Encomendas_Update_1.0.2_Build_32.csupd"
+  "changelog": "Primeiro update online válido do CondoSystem Encomendas. Correções no banco criptografado, validações de cadastro e atualização online.",
+  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/v1.0.3/CondoSystem_Encomendas_Update_1.0.3_Build_32.csupd"
 }
