@@ -1,0 +1,8 @@
+{
+  "versao": "1.0.1",
+  "build": "23",
+  "obrigatorio": false,
+  "tipo": "csupd",
+  "url": "",
+  "changelog": "Preparação do Connect para update online automático."
+}
