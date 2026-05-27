@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "versao": "1.0.1",
-  "build": 2,
+  "build": 23,
   "obrigatorio": false,
   "changelog": "Ajustes na validação online, painel de licenças, bloqueio pela Central CondoSystem e melhorias gerais.",
   "url_instalador": "https://github.com/menossifelipe/condosystem-update/releases/download/connect-1.0.1/Instalador_CondoSystem_Connect_v1.0.0.exe",
