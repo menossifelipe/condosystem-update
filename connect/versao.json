@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "versao": "1.0.2",
-  "build": 24,
+  "version": "1.0.3",
+  "versao": "1.0.3",
+  "build": 25,
   "obrigatorio": false,
   "tipo": "csupd",
   "url": "https://github.com/menossifelipe/condosystem-update/releases/download/connect-1.0.2/CondoSystem_Connect_Update_1.0.2_Build_24.csupd",
