@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "versao": "1.0.4",
-  "build": 26,
+  "version": "1.0.5",
+  "versao": "1.0.5",
+  "build": 27,
   "obrigatorio": false,
   "tipo": "csupd",
-  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/connect-1.0.4/CondoSystem_Connect_Update_1.0.4_Build_26.csupd",
+  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/connect-1.0.5/CondoSystem_Connect_Update_1.0.5_Build_27.csupd",
   "changelog": "Atualização online por pacote CSUPD, com barra de progresso e aplicação apenas dos arquivos necessários."
 }
