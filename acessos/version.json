@@ -4,6 +4,6 @@
   "module": "ACESSOS",
   "tipo": "csupd",
   "obrigatorio": false,
-  "url": "",
+  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/acessos-v1.0.1/CondoSystem_Acessos_Update_1.0.1_Build_1.csupd",
   "changelog": "Versão inicial do Acessos preparada para atualizações online."
 }
