@@ -1,0 +1,9 @@
+{
+  "version": "1.0.2",
+  "build": 1,
+  "module": "ACESSOS",
+  "tipo": "csupd",
+  "obrigatorio": false,
+  "url": "",
+  "changelog": "Versão inicial do Acessos preparada para atualizações online."
+}
