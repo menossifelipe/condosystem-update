@@ -1,9 +1,0 @@
-{
-  "version": "1.0.6",
-  "versao": "1.0.6",
-  "build": 28,
-  "obrigatorio": false,
-  "tipo": "csupd",
-  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/connect-1.0.6/CondoSystem_Connect_Update_1.0.6_Build_28.csupd",
-  "changelog": "Atualização Manual disponível"
-}
