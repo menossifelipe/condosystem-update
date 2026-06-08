@@ -1,6 +1,11 @@
 {
   "version": "1.0.1",
-  "build": 1,
+  "versao": "1.0.1",
+  "build": "1",
+  "module": "ACESSOS",
   "sistema": "ACESSOS",
-  "https://github.com/menossifelipe/condosystem-update/releases/download/acessos-v1.0.1/CondoSystem_Acessos_Update_1.0.1_Build_1.csupd",
+  "obrigatorio": false,
+  "tipo": "csupd",
+  "url": "https://github.com/menossifelipe/condosystem-update/releases/download/acessos-1.0.1/CondoSystem_Acessos_Update_1.0.1_Build_1.csupd",
+  "changelog": "Atualização do CondoSystem Acessos."
 }
