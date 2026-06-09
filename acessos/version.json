@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.4",
-  "build": "4",
+  "versao": "1.0.5",
+  "build": "5",
   "obrigatorio": false,
   "tipo": "csupd",
   "url": "https://github.com/menossifelipe/condosystem-update/releases/download/acessos-v1.0.5/CondoSystem_Acessos_Update_1.0.5_Build_5.csupd",
