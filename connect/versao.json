@@ -1,8 +1,0 @@
-{
-  "sistema": "CONNECT",
-  "app": "CondoSystem Connect",
-  "version": "1.0.1",
-  "versao": "1.0.1,",
-  "build": 24,
-  "changelog": "Alteração no tunnel para iniciar/reiniciar automaticamente"
-}
