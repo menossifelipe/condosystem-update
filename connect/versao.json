@@ -3,9 +3,9 @@
   "app": "CondoSystem Connect",
   "version": "1.0.1",
   "versao": "1.0.1",
-  "build": 24,
+  "build": 27,
   "tipo": "csupd",
-  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build24.csupd",
-  "changelog": "Alteração no tunnel para iniciar/reiniciar automaticamente.",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build27.csupd",
+  "changelog": "Melhorias no cadastro e consulta de diaristas.",
   "obrigatorio": false
 }
