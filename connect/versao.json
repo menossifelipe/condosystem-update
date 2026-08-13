@@ -3,9 +3,9 @@
   "app": "CondoSystem Connect",
   "version": "1.0.1",
   "versao": "1.0.1",
-  "build": 27,
+  "build": 28,
   "tipo": "csupd",
-  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build27.csupd",
-  "changelog": "Melhorias no cadastro e consulta de diaristas.",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build28.csupd",
+  "changelog": "Atualização do cadastro de veículos: campo Vaga obrigatório, gravação correta da vaga para envio ao app, remoção do Status na visualização, campos vazios quando não houver informação e obrigatoriedade do Serial quando o método TAG for selecionado.",
   "obrigatorio": false
 }
