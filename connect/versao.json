@@ -3,9 +3,9 @@
   "app": "CondoSystem Connect",
   "version": "1.0.1",
   "versao": "1.0.1",
-  "build": 29,
+  "build": 20,
   "tipo": "csupd",
-  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build29.csupd",
-  "changelog": "Ajuste no quadro de Situação Geral para criação do PDF",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build30.csupd",
+  "changelog": "Melhorias no Tunnel e Cloudflare para não haver duplicidade",
   "obrigatorio": false
 }
