@@ -3,6 +3,6 @@
   "build": "40",
   "obrigatorio": false,
   "tipo": "csupd",
-  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/acessos/CondoSystem_Acessos_Update_1.0.0_Build_40.csupd",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/acessos/CondoSystem_Acessos_Update_1.0.8_Build_40.csupd",
   "changelog": "Atualização do CondoSystem Acessos."
 }
