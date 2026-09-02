@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.9",
+  "versao": "1.0.0",
   "build": "40",
   "obrigatorio": false,
   "tipo": "csupd",
-  "url": "https://github.com/menossifelipe/condosystem-update/blob/main/acessos/CondoSystem_Acessos_Update_1.0.0_Build_40.csupd",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/acessos/CondoSystem_Acessos_Update_1.0.0_Build_40.csupd",
   "changelog": "Atualização do CondoSystem Acessos."
 }
