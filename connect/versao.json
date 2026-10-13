@@ -3,9 +3,9 @@
   "app": "CondoSystem Connect",
   "version": "1.0.1",
   "versao": "1.0.1",
-  "build": 35,
+  "build": 36,
   "tipo": "csupd",
-  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build35.csupd",
-  "changelog": "Melhorias de desempenho em geral",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build36.csupd",
+  "changelog": "Melhorias de desempenho. Escuta pânico mais fluída.",
   "obrigatorio": false
 }
