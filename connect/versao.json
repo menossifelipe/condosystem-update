@@ -3,9 +3,9 @@
   "app": "CondoSystem Connect",
   "version": "1.0.1",
   "versao": "1.0.1",
-  "build": 37,
+  "build": 38,
   "tipo": "csupd",
-  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build37.csupd",
-  "changelog": "Correção do contexto dos menus de edição dos cards para Moradores, Veículos e Contato Emergencial.",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build38.csupd",
+  "changelog": "Correção do card para separação de diaristas. ",
   "obrigatorio": false
 }
