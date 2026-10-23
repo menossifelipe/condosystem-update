@@ -3,9 +3,9 @@
   "app": "CondoSystem Connect",
   "version": "1.0.1",
   "versao": "1.0.1",
-  "build": 38,
+  "build": 39,
   "tipo": "csupd",
-  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build38.csupd",
-  "changelog": "Correção do card para separação de diaristas. ",
+  "url": "https://raw.githubusercontent.com/menossifelipe/condosystem-update/main/connect/CondoSystem_Connect_1.0.1_Build39.csupd",
+  "changelog": "Correção na chamada do panicworker. ",
   "obrigatorio": false
 }
